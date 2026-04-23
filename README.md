@@ -133,6 +133,12 @@ O notebook `analysis_taxi_clean.ipynb` contém:
 - Cálculo de métricas médias
 - Análise de distribuição de corridas por horário
 
+### Principais insights
+
+- Maior volume de corridas ocorre entre 11h e 14h.
+- Distância média ~9.5 km e duração média ~17 minutos.
+- Padrão consistente com deslocamento urbano em horários comerciais.
+
 ---
 
 ## Evolução do Projeto
