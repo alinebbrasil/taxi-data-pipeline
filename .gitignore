@@ -1,0 +1,15 @@
+# dados (não subir)
+data/
+
+# arquivos grandes
+*.parquet
+
+# cache python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# sistema
+.DS_Store
