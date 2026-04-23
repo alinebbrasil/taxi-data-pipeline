@@ -33,6 +33,16 @@ Dataset pronto para análise
 
 ---
 
+## Demonstração
+
+### Airflow - Execução do Pipeline
+![Airflow DAG](assets/airflow_dag.png)
+
+### Análise de Dados
+![Notebook](assets/notebook_analysis.png)
+
+---
+
 ## Tecnologias utilizadas
 
 - Python  
